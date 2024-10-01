@@ -26,4 +26,4 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 
 To launch the web user interface, run the following command:
 ```sh
-cd stable-diffusion && python launch.py --share
+cd stable-diffusion-webui && python launch.py --share
